@@ -1,2 +1,2 @@
 # collect-price-dl
-collect Diamond Lock price data from gtid server
+collect Diamond Lock price data from [GTID server](discord.gg/gtid)
